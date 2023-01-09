@@ -1,9 +1,8 @@
 # Mining-Big-Data-with-High-Performance-Computing
 
-##Five programming projects - 
+##Four programming projects -  <br>
 
-1st assignment: K-D tree
-2rd assignment: locality-sensitive hashing 3nd assignment: K-means
-4th assignment: parallel K-means
-5th assignment: bisecting K-means
-All projects must be independent wor
+1st assignment: K-D tree <br>
+2rd assignment: locality-sensitive hashing <br>
+3rd assignment: K-means <br>
+4th assignment: parallel K-means <br>
